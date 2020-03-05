@@ -1,0 +1,1 @@
+https://stackoverflow.com/questions/46515704/how-to-kill-a-running-process-using-ansible
