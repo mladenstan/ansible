@@ -1,2 +1,2 @@
 # ansible
-Sve u veyi Ansible-a.
+Sve u vezi Ansible-a.
