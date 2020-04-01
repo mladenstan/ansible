@@ -1,0 +1,3 @@
+https://blog.halberom.co.uk/post/ansible-selectattr/
+https://oznetnerd.com/2017/04/18/jinja2-selectattr-filter/
+https://www.tailored.cloud/devops/how-to-filter-and-map-lists-in-ansible/
